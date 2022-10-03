@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dawson Hormuth.
 - 👀 I’m interested in Computer Science, Mathematics, Video Games, and Sports.
-- 🌱 I’m currently learning Computer Science and Mathematics from Frostburg State University.
+- 🌱 I’m currently learning Computer Science and Mathematics at Frostburg State University.
 - 📫 You can reach me at dawson.hormuth0@gmail.com or at my mobile phone, 301-697-6178.
 
 <!---
